@@ -1,0 +1,825 @@
+😁EU : Sim ! mas eu queria também te explicar melhor como seria o site na minha mente ok ? então seria o seguinte : eu queria fazer primeiro um sistema de cadastro onde a pessoa pagaria R$: 10,50. para assinar o plano na próxima parte, tal pessoa iria cadastrar-se onde colocaria seu e-mail numero de telefone e receberia e autorizaria o cadastro por mensagem de SMS ou colocaria apenas a senha do e-mail e pronto outra coisa seria que ela poderia escolher como seria seu perfil depois de escolher um nome de usuário e suas senhas que no caso serão 3 para ter extrema defesa no caso de outro dispositivo ter ou querer acesso, depois ela seria transportada para uma central de pesquisas onde escolheria se o perfil seria infantil, teria 10 anos, 12, 14, 16 ou 18 e nós puxaríamos de seu e-mail sua idade para ver se ela correspondia com a colocada na conta, em seguida disponibilizaremos 15 lugares para a pessoa colocar 15 séries (não é obrigatório preencher todos os espaços) para ela achar tais séries ela poderia usar uma barra de pesquisa  e achar suas séries podendo segura-las e arrasta-las ou apenas seleciona-las e selecionar o correspondente espaço, lembrando que cada espaço terá uma classificação visível a pessoa sendo mais perto do numero 1 a sua preferida e mais perto do quinze sua menos gostada mais ainda legal ! ela também poderia escolher se seria um cliente : apenas quer entretenimento. negociador : quer colocar uma série ou jogo na plataforma. streamer : quer ter seu próprio canal na plataforma reagindo a outros streamers jogando jogos ou reagindo a séries e muito mais. avaliador : será uma conta que não será cobrado nenhum dinheiro e poderá ter 30 dias para nos avaliar gratuitamente mas para isso deve apresentar seus documentos de avaliador, seu numero de telefone e seu e-mail pois faremos uma chamada de voz, a ele daremos boas-vindas, e enviaremos um código por SMS em seu e-mail, para confirmar que é ele mesmo assim colocando o seguinte código no correspondente lugar do app depois de autorizar seu uso, em seguida enviara o código e reiniciará o app para entrar como avaliador. depois disso ele poderá avaliar nossas séries, filmes, jogos sistemas de administração e muito mais o seu voto tem peso duplo além de ele poder manda uma avaliação de até 500 linhas destacando os pontos importantes de sua avaliação e muitos outros pontos para conseguirmos resumir e entender melhor, após os 30 dias de avaliação ele se tornará um cliente fiel (classificação da plataforma) mas poderá se tornar um avaliador se tiver feito ao menos 3 avaliações por dia e uma delas tem que ser positiva. durante os 30 dias ele terá o direito de fazer denuncias a links externos de plataformas competidoras com a minha e poderá fazer denuncias a filmes, séries, animes, jogos e vídeos de streamers caso eles tenham feito algo errado ou algo que quebra as regras da nossa plataforma ele fará a denuncia e explicara oque aconteceu em seguida dizendo quais regras foram quebradas, ligando os pontos e explicando a lógica, máximo de 35 linhas escritas inteiras, máximo de denuncias por dia 5. obrigado por tudo chat ! <3 alem de tudo a plataforma se chamará " ULTRA W🌎RLD " e este planeta no lugar da letra "O" foi proposital ok ?
+
+obrigado chat !!
+
+  🌎CHAT GPT :
+
+    Esse seu projeto é ousado — e ousadia é o que move os grandes! A ideia de juntar vários tipos de entretenimento (jogos, séries, filmes, animes etc.) num só app/site é basicamente criar um "hub de diversão".
+
+    Mas pra gente não se perder, eu sugiro que a gente monte isso em etapas:
+
+    1️⃣ Definir a ideia principal
+    Antes de escrever uma única linha de código, a gente precisa decidir o que exatamente vai ter no site/app e como será organizado.
+    Exemplo de seções:
+
+    🎮 Jogos — Pode ser catálogo de games, mini-jogos web ou integração com APIs de jogos.
+
+    🎬 Filmes e Séries — Catálogo com informações (sinopse, avaliação, trailer).
+
+    📺 Animes — Listagem, sinopse, trailers, temporadas.
+
+    📰 Notícias e Reviews — Conteúdo sobre entretenimento.
+
+    🏆 Ranking e Comunidade — Onde usuários podem interagir.
+
+    2️⃣ Escolher a estrutura e tecnologias
+    Se você quer algo que seja site + app, dá pra fazer usando:
+
+    Frontend (parte visual):
+
+    HTML + CSS + JavaScript (com React, Vue ou Next.js para mais velocidade).
+
+    Backend (parte lógica e dados):
+
+    Node.js (JavaScript) ou Python (com Django ou Flask).
+
+    Banco de dados:
+
+    MongoDB ou PostgreSQL para armazenar dados de filmes, séries, jogos etc.
+
+    API externas:
+
+    TMDB API (para filmes e séries).
+
+    Jikan API (para animes).
+
+    Open Game Database API (para jogos).
+
+    Hospedagem:
+
+    Vercel (frontend) + Render/Heroku (backend) ou um servidor VPS.
+
+    3️⃣ Layout inicial
+    Podemos fazer algo como:
+
+    markdown
+    Copiar
+    Editar
+    Página inicial:
+      - Banner rotativo com novidades
+      - Seções de destaques (Filmes, Séries, Jogos, Animes)
+      - Menu superior: Início | Filmes | Séries | Jogos | Animes | Comunidade
+      - Rodapé com informações e redes sociais
+    4️⃣ Próximos passos
+    Definir paleta de cores e estilo visual.
+
+    Criar wireframes (desenho de como será cada página).
+
+    Montar estrutura de pastas e arquivos do projeto.
+
+    Começar pelo frontend estático (HTML + CSS + JS básico).
+
+    Depois integrar APIs e backend.
+
+    Se você quiser, eu já posso desenhar a estrutura técnica e visual desse site agora, pra gente ter um “esqueleto” e começar a construir aos poucos.
+    Assim a gente vai evoluindo até chegar num app gigante.
+
+    Você quer que eu já faça esse rascunho completo da estrutura e layout? Porque aí a gente começa na prática.
+ 
+    Amigo… 😳 você não tá pensando pequeno não, você tá sonhando em grande escala de metaverso de entretenimento!
+    O "ULTRA W🌎RLD" que você descreveu é praticamente um Netflix + Twitch + Steam + sistema de cadastro de luxo + comunidade gigante.
+    Eu amei essa ousadia — mas a gente precisa transformar esse monstro de ideias em algo bem estruturado pra não virar um caos na hora de programar.
+
+    Vou dividir isso em 4 partes: Fluxo do usuário, Sistema de perfis, Modelos de conta, e Módulos técnicos.
+
+    1️⃣ Fluxo do usuário
+    Vou organizar exatamente o que acontece passo a passo quando alguém entra no ULTRA W🌎RLD.
+
+    Cadastro e Assinatura
+    Tela inicial → Botão "Criar Conta".
+
+    Plano → Usuário escolhe assinatura (R$ 10,50/mês) ou entra como avaliador.
+
+    Dados obrigatórios:
+
+    E-mail.
+
+    Número de telefone.
+
+    Verificação:
+
+    Via SMS com código OU senha do e-mail.
+
+    Segurança:
+
+    3 senhas (Senha principal, senha de acesso restrito, senha de recuperação).
+
+    Configuração do perfil:
+
+    Nome de usuário.
+
+    Foto/Avatar.
+
+    Tipo de perfil: Infantil (10, 12, 14, 16, 18).
+
+    Validação de idade via data de nascimento do e-mail.
+
+    2️⃣ Configuração inicial de gostos
+    Central de pesquisas → Barra de busca.
+
+    15 slots para séries preferidas (arrastar e soltar ou clicar).
+
+    Ranking visual (1º lugar = mais favorita).
+
+    3️⃣ Tipos de contas
+    Cliente → Só consome entretenimento.
+
+    Negociador → Coloca séries/jogos na plataforma.
+
+    Streamer → Faz lives, reage, interage.
+
+    Avaliador → Testa 30 dias grátis (com verificação documental).
+
+    Pode enviar avaliações de até 500 linhas.
+
+    Pode denunciar até 5 conteúdos/dia (35 linhas cada explicação).
+
+    Após 30 dias → Cliente fiel ou avaliador permanente (se mantiver atividade).
+
+    4️⃣ Módulos técnicos do sistema
+    Pra dar vida a tudo isso, vamos separar por sistemas:
+
+    Frontend (o que o usuário vê)
+    Framework: Next.js (React).
+
+    Estilo: TailwindCSS.
+
+    Funcionalidades:
+
+    Páginas de login/cadastro.
+
+    Dashboard personalizada.
+
+    Drag-and-drop para séries.
+
+    Área de streamer com chat ao vivo.
+
+    Backend (o cérebro do app)
+    Node.js com Express ou Python com Django.
+
+    APIs externas:
+
+    TMDB API (filmes/séries).
+
+    Jikan API (animes).
+
+    Banco de dados: PostgreSQL (relacional) ou MongoDB (mais flexível).
+
+    Funções:
+
+    Autenticação multi-etapas (e-mail, SMS, senhas múltiplas).
+
+    Sistema de pagamento (ex.: Stripe ou MercadoPago).
+
+    Sistema de perfis e permissões.
+
+    Registro de avaliações e denúncias.
+
+    Segurança
+    Criptografia de senhas (bcrypt).
+
+    Token JWT para autenticação.
+
+    Limite de tentativas de login.
+
+    Validação de idade e perfil.
+
+    Hospedagem
+    Frontend → Vercel.
+
+    Backend → Render ou AWS.
+
+    Banco de dados → Railway, Supabase ou RDS (AWS).
+
+    Se quiser, eu já posso fazer o desenho visual do fluxo do usuário e da arquitetura do sistema pra você enxergar como o ULTRA W🌎RLD vai funcionar na prática.
+    Isso vai virar tipo um mapa de engenharia pra gente depois começar a codar sem se perder.
+
+    Quer que eu faça esse mapa agora?
+    Porque aí a gente já coloca tudo no papel (ou tela) e começa a construir por partes.
+
+   😁 Eu : a pessoa também pode baixar videos séries e filmes se ela quiser para poder assistir sem internet basta baixa-los e ativa o modo off-line onde ela poderá assistir sem internet. ao ativar este modo a internet não é gasta em nossa plataforma mesmo dados moveis !
+
+    CHAT GPT : Entendi, amigo! 😎 Então o ULTRA W🌎RLD também vai ter um modo offline premium, tipo um "cofre de entretenimento" onde o usuário baixa os conteúdos e assiste sem gastar internet, nem dados móveis.
+
+    Mas aí entram dois pontos importantes pra gente considerar:
+
+    1️⃣ Como isso funciona na prática
+    O backend precisará gerar arquivos criptografados que só podem ser reproduzidos dentro do próprio app/site (pra evitar pirataria).
+
+    No momento do download, a gente salva os arquivos no armazenamento local do dispositivo (celular ou computador).
+
+    Quando o modo offline é ativado:
+
+    A conexão com a internet é bloqueada para a reprodução dos vídeos.
+
+    O player interno só lê arquivos baixados.
+
+    Se possível, faz cache de legendas e metadados também.
+
+    2️⃣ O detalhe do “não gastar internet”
+    Se o vídeo já estiver baixado, realmente não gasta internet.
+
+    Mas para assistir online sem gastar dados móveis, só seria possível se:
+
+    O app tivesse um acordo com operadoras para “zerar” o consumo de dados.
+
+    Isso é chamado de zero-rating, e exige contrato com TIM, Vivo, Claro etc.
+
+    Então no começo, seria mais viável focar no modo offline (download + reprodução local).
+
+    3️⃣ Estrutura técnica pro modo offline
+    Front-end (app/site):
+
+    Player próprio (HTML5 Player adaptado ou nativo em mobile).
+
+    Modo offline detecta ausência de conexão e mostra apenas biblioteca baixada.
+
+    Back-end:
+
+    API para gerar link seguro de download.
+
+    Criptografia (AES-256) nos vídeos.
+
+    Licença de uso com prazo (ex.: vídeos expiram em 30 dias).
+
+    Banco de dados:
+
+    Registro de quais arquivos cada usuário baixou.
+
+    Mobile:
+
+    No Android/iOS, usar armazenamento interno seguro (não no SD, para evitar cópias).
+
+    Se você quiser, eu já posso integrar o modo offline nesse mapa do ULTRA W🌎RLD junto com todo o fluxo de cadastro, perfis, avaliações e tipos de conta que a gente falou antes.
+    Aí fica um plano gigante e organizado pra gente seguir no desenvolvimento.
+
+    Quer que eu já monte esse “mapão” do projeto com tudo que falamos até agora?
+
+😁EU : esqueci de um pequeno detalhe chat... elas também poderão assinar o modo premium onde  pagam R$: 12,89. para poder baixar os jogos especiais que estão hospedados em nosso app/site e poderão jogar sem internet! ( alguns deles ) mas se forem jogar com amigos não precisam da mesma internet ou estarem perto ! com o modo plus ativado onde é preciso de internet e ter assinado o premium poderão jogar mesmo distanciados e terão chat de voz um com o outro no próprio jogo ! mas se estiverem longe um do outro no jogo não poderão conversar por voz apenas por chat escrito ! mas eles já podem baixar alguns dos jogos sem o premium mas com o premium você já ganha varias coisas de primeira nos jogos assim a que entra e nos jogos premium você ganha ainda mais coisas.
+
+🌎CHAT GPT : Ahhh agora entendi, amigo 😏...
+O ULTRA W🌎RLD não vai ser só uma plataforma de vídeos e streaming — ele também vai virar uma Steam + Xbox Live + Netflix + Twitch tudo junto.
+E com essa ideia do Premium + Plus, você tá criando um ecossistema próprio de games e conteúdo.
+
+Deixa eu organizar tudo que você acabou de acrescentar:
+
+📌 Sistema de Assinaturas
+Plano Básico – R$ 10,50/mês
+Acesso a filmes, séries, animes, streams.
+
+Download de vídeos para modo offline.
+
+Jogar alguns jogos (apenas online ou offline se permitido pelo jogo).
+
+Plano Premium – R$ 12,89/mês
+Tudo do Básico.
+
+Download de jogos especiais para jogar offline (quando permitido).
+
+Itens extras e benefícios iniciais nos jogos premium.
+
+Mais espaço de armazenamento para downloads.
+
+Modo Plus (ativado dentro do Premium)
+Multiplayer online mesmo a longa distância.
+
+Chat de voz integrado apenas quando os jogadores estão próximos no mapa.
+
+Chat de texto liberado em qualquer distância.
+
+Mais benefícios e bônus exclusivos nos jogos premium.
+
+🎮 Funcionalidades Extras dos Jogos
+Download seguro dos jogos (criptografia para evitar pirataria).
+
+Sistema de servidores próprios para partidas online no modo Plus.
+
+Chat de voz espacial (proximidade no mapa).
+
+Chat de texto global dentro do jogo.
+
+Recompensas e bônus automáticos para assinantes premium.
+
+⚙ Estrutura Técnica para essa parte de games
+Frontend:
+
+Biblioteca de jogos no site/app.
+
+Botão "Baixar" com progresso.
+
+Página de cada jogo com descrição, trailer, requisitos.
+
+Backend:
+
+API para autenticar jogador e verificar assinatura.
+
+Gerenciamento de licenças de jogos (pra liberar premium).
+
+Sistema de updates automáticos pros jogos baixados.
+
+Servidores de jogos:
+
+Hospedagem dedicada para modo Plus (Amazon GameLift, Azure PlayFab ou similar).
+
+Sistema de chat por voz integrado no servidor.
+
+Modo offline de jogos:
+
+Arquivos instalados localmente no dispositivo.
+
+Licença válida apenas com conta ativa (verificação periódica).
+
+Se quiser, eu já posso juntar TUDO que a gente conversou até agora —
+📺 Vídeos, 🎮 Jogos, 💬 Streamers, 👤 Perfis, 🛡 Segurança, 📥 Offline, 🏆 Premium —
+e criar um mapa visual gigante mostrando como o ULTRA W🌎RLD vai funcionar, do cadastro até o modo Plus.
+
+Assim a gente teria um projeto completo e organizado pra começar a desenvolver.
+
+Você quer que eu já monte esse mapa agora? Porque aí ele fica pronto pra gente começar a codar por etapas.
+
+😁EU : mas onde podemos hospedar tudo isso ? e como ganharemos dinheiro para isso ?
+
+🌎CHAT GPT : Amigo, essa pergunta é crucial — porque o ULTRA W🌎RLD não é um projetinho simples que cabe num hosting barato, ele é um monstro de entretenimento que vai precisar de um ecossistema de servidores.
+
+Vou te explicar onde hospedar e como monetizar pra bancar tudo isso.
+
+☁ Onde hospedar o ULTRA W🌎RLD
+Como você tem vídeos, jogos e recursos online, a gente precisa separar em três frentes:
+
+1. Hospedagem de site/app (Frontend + Backend)
+Opções:
+
+Vercel → Frontend (rápido e escalável).
+
+AWS EC2 / Render / DigitalOcean → Backend (Node.js ou Django).
+
+Função:
+
+Lidar com login, perfis, pagamentos, APIs, comunicação com servidores de jogos e vídeos.
+
+2. Hospedagem de vídeos e filmes
+Opções:
+
+AWS S3 + CloudFront (armazenamento + CDN).
+
+Bunny.net (barato e otimizado para streaming).
+
+Função:
+
+Guardar todos os filmes, séries e animes.
+
+Distribuir via CDN para carregar rápido em qualquer lugar do mundo.
+
+Suporte a downloads criptografados para modo offline.
+
+3. Hospedagem de jogos
+Opções para download e updates:
+
+Google Cloud Storage / AWS S3.
+
+Opções para multiplayer (modo Plus):
+
+Amazon GameLift, Azure PlayFab, ou até Photon Engine para partidas e chat de voz.
+
+Função:
+
+Entregar arquivos de jogos para download.
+
+Gerenciar servidores dedicados para partidas online.
+
+💡 Resumo técnico de hospedagem:
+
+Frontend: Vercel.
+
+Backend: AWS EC2 ou Render.
+
+Vídeos: AWS S3 + Bunny.net.
+
+Jogos: AWS S3 (download) + GameLift/PlayFab (online).
+
+💰 Como ganhar dinheiro
+Hospedar tudo isso custa caro, então a gente precisa de várias fontes de renda:
+
+1. Assinaturas
+Plano Básico (R$ 10,50) e Premium (R$ 12,89) já garantem renda mensal.
+
+Podemos também criar Plano Família com desconto para mais usuários.
+
+2. Microtransações
+Venda de itens cosméticos e skins nos jogos.
+
+Moeda virtual ULTRA COINS para gastar dentro da plataforma.
+
+3. Publicidade
+Anúncios apenas para usuários grátis (antes de vídeos ou nas páginas).
+
+Parcerias com marcas de games e entretenimento.
+
+4. Parcerias comerciais
+Negociadores que colocam seus jogos/séries pagam uma taxa para entrar na plataforma.
+
+Streamers podem pagar para ganhar destaque.
+
+5. Licenciamento
+Vender parte da tecnologia (sistema de streaming, hospedagem de jogos) para empresas menores.
+
+Licenciar catálogo de conteúdo para outras plataformas.
+
+Se quiser, eu já posso fazer uma planilha estimando os custos de hospedagem e o lucro esperado com diferentes quantidades de assinantes.
+Assim a gente vê quanto precisa investir e quando começa a dar lucro.
+
+Quer que eu já prepare essa projeção financeira do ULTRA W🌎RLD?
+
+😁EU : 
+Sim sim sim e sim por favor chat !!!!!
+
+🌎CHAT GPT :Perfeito, amigo! 😎
+Então vamos fazer essa projeção financeira inicial do ULTRA W🌎RLD pra você entender:
+
+Quanto custa manter a plataforma (servidores, CDN, licenças).
+
+Quanto entra de dinheiro dependendo da quantidade de assinantes.
+
+Quando começa o lucro.
+
+📊 Estimativa de Custos Mensais
+(valores aproximados em reais, convertidos de dólares)
+
+Área	Serviço	Custo Estimado
+Frontend (site/app)	Vercel Pro	R$ 100
+Backend (API, login, pagamentos)	AWS EC2 médio	R$ 400
+Banco de dados	PostgreSQL gerenciado (AWS RDS)	R$ 200
+Vídeos (armazenamento + CDN)	AWS S3 + CloudFront (1TB/mês)	R$ 350
+Hospedagem de jogos para download	AWS S3 (500GB/mês)	R$ 150
+Servidores de jogos online	Amazon GameLift (200 jogadores ativos/dia)	R$ 600
+Processamento de pagamentos	Stripe/MercadoPago (3,5% por transação)	varia
+Licenças e APIs (TMDB, Jikan, etc.)	R$ 100
+TOTAL FIXO	—	~R$ 1.900/mês
+
+⚠ Isso é bem básico, se a plataforma crescer muito, esses custos podem subir para R$ 5.000/mês ou mais, principalmente por causa de vídeos e servidores de jogos.
+
+💰 Estimativa de Receita
+(considerando só assinaturas, sem contar publicidade ou microtransações)
+
+Plano Básico: R$ 10,50/mês.
+
+Plano Premium: R$ 12,89/mês.
+
+📌 Vamos simular 3 cenários misturando 70% de assinantes Básico e 30% Premium.
+
+Assinantes	Receita Bruta/mês	Taxas de pagamento (3,5%)	Receita Líquida
+500	R$ 5.720	-R$ 200	R$ 5.520
+1.000	R$ 11.440	-R$ 400	R$ 11.040
+5.000	R$ 57.200	-R$ 2.000	R$ 55.200
+
+📈 Ponto de equilíbrio
+Custos fixos: R$ 1.900/mês.
+
+Com 200 assinantes já cobrimos os custos e começamos a lucrar.
+
+Depois disso, cada novo assinante é lucro quase puro, tirando taxas.
+
+💡 Estratégias para crescer rápido
+Oferecer teste grátis (7 dias) para atrair usuários.
+
+Microtransações nos jogos (skins, itens) para aumentar faturamento.
+
+Parcerias com streamers para divulgar o ULTRA W🌎RLD.
+
+Planos anuais com desconto para garantir receita antecipada.
+
+Promoções especiais em datas comemorativas.
+
+Se você quiser, eu já posso agora criar o mapa visual completo do ULTRA W🌎RLD, com:
+
+Fluxo do usuário (cadastro, assinatura, login, escolha de perfil).
+
+Estrutura de planos (Básico, Premium, Plus).
+
+Módulos técnicos (vídeos, jogos, streams, offline).
+
+Hospedagem e custos.
+
+Isso seria como um "projeto mestre" pra gente seguir na construção.
+Quer que eu monte esse mapa gigante agora?
+
+😁EU : faça isso por favor ! e você poderia me passar algumas informações extras ? irei te fazer algumas perguntas e me responda com a verdade ok ?
+
+
+ 🌎CHAT : Fechado, amigo 👍
+Eu vou te montar um plano passo a passo de desenvolvimento do ULTRA W🌎RLD e depois você me manda as perguntas que quiser — pode perguntar qualquer coisa, eu respondo na lata, sem enrolar.
+
+📅 Plano de Desenvolvimento – ULTRA W🌎RLD
+1️⃣ Fase 1 – Fundamentos e Protótipo
+Objetivo: Criar a base do sistema para permitir login, cadastro e visualização inicial de conteúdo.
+
+Definir UI/UX (protótipos no Figma).
+
+Criar Frontend básico (Next.js + TailwindCSS).
+
+Criar Backend básico (Node.js + Express ou Python + Django).
+
+Implementar banco de dados (PostgreSQL/Supabase).
+
+Sistema de autenticação inicial:
+
+Cadastro com email/telefone.
+
+Verificação por SMS e email.
+
+Configuração de perfil.
+
+Página inicial com menu e placeholders para cada categoria.
+
+2️⃣ Fase 2 – Conteúdo de Vídeos e Séries
+Objetivo: Integrar APIs externas e permitir que o usuário veja e pesquise conteúdo.
+
+Integração com TMDB API (filmes/séries).
+
+Exibir lista e detalhes (sinopse, avaliação, trailer).
+
+Criar barra de busca global.
+
+Implementar favoritos e ranking de 15 séries.
+
+Criar modo offline de vídeos:
+
+Download seguro.
+
+Player interno.
+
+Expiração de licenças.
+
+3️⃣ Fase 3 – Jogos e Modo Premium
+Objetivo: Adicionar catálogo de jogos, downloads e benefícios premium.
+
+Criar catálogo de jogos (básicos + premium).
+
+Implementar download de jogos com criptografia.
+
+Criar sistema de licenças de jogos premium.
+
+Criar itens bônus para assinantes.
+
+Configurar plano Premium no sistema de pagamentos.
+
+4️⃣ Fase 4 – Modo Plus (Multiplayer e Chat)
+Objetivo: Adicionar jogos multiplayer com chat de voz/texto.
+
+Integrar Amazon GameLift / Photon Engine.
+
+Criar servidores para partidas online.
+
+Implementar chat de voz espacial (proximidade no mapa).
+
+Implementar chat de texto global.
+
+Otimizar servidores para baixa latência.
+
+5️⃣ Fase 5 – Streamers e Comunidade
+Objetivo: Adicionar transmissão ao vivo e interação entre usuários.
+
+Criar área de lives com chat.
+
+Permitir reação a vídeos/jogos.
+
+Criar ranking de streamers.
+
+Criar fórum/comunidade para usuários.
+
+6️⃣ Fase 6 – Avaliadores e Sistema de Denúncias
+Objetivo: Criar mecanismo para testes e feedbacks.
+
+Sistema para cadastrar avaliadores (30 dias grátis).
+
+Formulário de avaliações com peso duplo.
+
+Limite de denúncias/dia.
+
+Revisão e moderação automática.
+
+7️⃣ Fase 7 – Escalonamento e Otimização
+Objetivo: Garantir que a plataforma aguente crescer.
+
+Adicionar CDN para vídeos e jogos.
+
+Criar monitoramento de servidores.
+
+Otimizar custos e performance.
+
+Iniciar campanha de marketing.
+
+Se quiser, posso já anexar estimativa de tempo pra cada fase e um orçamento mínimo pra iniciar.
+Agora, pode mandar suas perguntas que eu respondo tudo.
+
+ 😁EU : ok chat faça isso mas antes, pense em uma coisa se a pessoa quiser baixar algum jogo filme série anime ou vídeos nós precisaríamos de muito mais espaço de armazenamento além de que assinantes comuns terão menos espaço de armazenamento do que os premium.
+
+
+mas se for assim como nós vamos sustentar tudo ? e se for assim que jogos e séries nós iriamos colocar neste projeto ? pois nós precisaríamos de jogos pequenos para crescerem junto com o projeto, porque jogos grandes e de empresas muito melhores não iriam querer vir para o nosso lado e sair de onde já estão pois eles já tem muita fama lá e isso poderia fazer eles perderem fama pois sair de uma empresa muito famosa e vir para uma empresa tão baixa em escala de sucesso não faria sentido no momento por isso pensei em pegar jogos que não sejam tão famosos e sim pegar jogos mais baratos e simples, além de que eu queria fazer um jogo meu que eu mesmo tenha criado, oque seria uma ótima ideia pois isso já daria tempo para as pessoas usarem do meu projeto/site/app, pois assim os dois cresceriam juntos, e outra coisa que eu pensei seria em começar apenas com jogos pois isso iria atrair um publico mais jovem e mais energético que ainda não tem responsabilidades podendo jogar e usar o meu app o dia inteiro como se fosse um poki ou ate um friv, mas apenas no começo pois iria evoluir para um tipo de plataforma igual ou parecida com o roblox, mas ainda teria como baixar jogos mas não todos apenas os jogos específicos desta categoria, além de que iriam ter modificadores para os jogos de baixar ou serem até mesmo comprados, e ninguém poderia baixar algum jogo para jogar sem internet se não tivesse o premium e como o premium é barato, as pessoas pensariam que seria melhor comprar o premium já que é quase o mesmo preço e quem usasse teria melhor experiencia. e chat eu também pensei em criar os meus próprios jogos para poder colocar na plataforma e as outras pessoas também poderiam colocar os seus jogos lá mas teria um custo para elas colocarem os jogos teria um taxa de R$: 25,90  para elas poderem colocar seu jogo, mas se o jogo puder ser baixado para ser jogado sem internet a pessoa terá que pagar mais R$: 15,60 e se o jogo só puder ser baixado com premium terá de ser pago mais R$: 24,99 mas se o jogo tivesse que ser pago para baixar o preço que seria custado a mais seria R$: 44,91  e se o jogo tivesse game pass que seria uma forma de pagar dinheiro do próprio jogo seria as ultracoins  moedas de ouro com símbolo do planeta terra mas aparecendo a parte onde fica o brasil se você mora no brasil a dos E.U.A. se vc mora lá e assim vai entende ? mas voltando as game pass seriam pagas com esta moeda que a cada 1 real são 75 ultracoins que serão usadas para comprar as game pass que ajudariam no progresso do jogo e teria uma inteligência artificial vendo tudo oque os jogadores fazem pois seria uma inteligência artificial para cada conta que ficaria com o papel de monitorar oque a pessoa diz no chat de voz e no chat de escrita e se caso ele ou ela dissesse algo errado ou alguma ofensa seria banida na hora dependendo do que disse poderia ser uma suspensão de 7 dias, 14 dias, 30 dias, 90 dias, e até um ano ou ela seria banida permanentemente e se caso o telefone dela estiver logado em duas contas uma que foi banida e outra que esta repetindo os mesmos atos as duas seriam banidas permanentemente por causa de tentativa de burlar o sistema. e eu farei os meus próprios jogos mas em alguns dos meus jogos terá um pequeno portal que ao ser tocado te leva para os modificadores do jogo em que o pequeno portal estava lembrando que ele estava na descrição do jogo e após clicar no portal uma cutsene aparecerá e te levará para o mercado dos modificadores alguns serão pagos e outros não e esses modificadores farão uma mudança na configuração e nos arquivos no jogo que fara o papel do modificador que você baixou ( fara oque o modificador diz que faz e ainda mais [opcional] mas os modificadores poderão fazer varias coisas adicionar itens novos, adicionar novos aspectos para o jogo, mudar a história, adicionar mecânicas extras, mudar o brilho do jogo, tornar um jogo de terror, tornar um jogo de qualquer coisa e adicionar ou tirar inúmeras coisas mas nenhum destes modificadores poderão ter uma classificação 18+ entendeu) ?
+
+🌎CHAT : 
+Amigo… 🤯 você acabou de transformar o ULTRA W🌎RLD numa Steam + Roblox + Minecraft Marketplace + Netflix, tudo misturado, mas com o foco inicial bem estratégico:
+começar apenas com jogos para conquistar o público jovem e energético, crescer junto com os criadores menores, e depois expandir para séries, filmes e animes.
+
+Isso é muito mais viável pra começar do zero. Eu vou organizar o que você falou pra ficar claro e sustentável financeiramente.
+
+💡 Como sustentar o ULTRA W🌎RLD no começo
+Se começarmos apenas com jogos:
+
+Menos custo (não precisa pagar servidores e licenças para streaming de filmes/séries logo de cara).
+
+Público jovem se engaja mais rápido e passa mais tempo na plataforma.
+
+Possibilidade de crescer com criadores menores, que vão trazer seus próprios seguidores.
+
+Fontes de renda já no início:
+
+Plano Premium (R$ 12,89) → única forma de jogar offline + bônus nos jogos.
+
+Taxa para publicar jogos:
+
+R$ 25,90 para colocar o jogo.
+
+R$ 15,60 se for offline.
+
+R$ 24,99 se for premium-only.
+
+R$ 44,91 se for pago para baixar.
+
+Game Pass (Ultracoins) → 1 real = 75 moedas.
+
+Venda de modificadores → marketplace de mods para jogos.
+
+Taxa de comissão em compras dentro dos jogos (como faz a Roblox).
+
+🎮 Tipo de jogos para começar
+Como você disse, não vamos tentar pegar GTA, Fortnite ou Minecraft no início, porque:
+
+Custam caro para licenciar.
+
+Criadores grandes não trocam de plataforma sem segurança.
+
+Então vamos focar em:
+
+Jogos indie simples (2D/3D leve).
+
+Jogos criados por você (com mecânicas únicas e possibilidade de mods).
+
+Jogos criados por outros desenvolvedores que pagarem para entrar.
+
+Jogos divertidos e rápidos para rodar em navegador e celular.
+
+📌 Exemplos para se inspirar:
+
+Poki.com e Friv.com → minigames rápidos e viciantes.
+
+Roblox → jogos feitos pela comunidade.
+
+itch.io → plataforma para jogos indie baratos.
+
+⚙ Como funcionaria o ciclo
+Criadores enviam jogos → pagam taxa para publicar.
+
+Jogos disponíveis:
+
+Gratuitos online.
+
+Gratuitos offline (premium apenas).
+
+Pagos para baixar.
+
+Marketplace de modificadores:
+
+Mods pagos e gratuitos.
+
+Alterações visuais, de história, de mecânica, etc.
+
+Ultracoins → usadas para comprar passes, mods e itens.
+
+IA moderadora:
+
+Analisa chat de texto e voz em tempo real.
+
+Punições graduais até ban permanente.
+
+Bloqueio automático de usuários que tentam burlar.
+
+🚀 Estratégia de crescimento
+Primeiro ano:
+
+Lançar como plataforma de jogos indie + seus próprios jogos exclusivos.
+
+Criar eventos semanais dentro da plataforma (torneios, desafios).
+
+Incentivar criadores pequenos com prêmios e destaque.
+
+Segundo ano:
+
+Começar a adicionar streaming de séries/animes.
+
+Criar integração entre conteúdo de vídeo e jogos.
+
+Terceiro ano:
+
+Ter catálogo próprio de produções originais.
+
+Expandir para nível internacional.
+
+Se quiser, eu posso montar um diagrama detalhado só para a versão inicial focada em jogos, mostrando:
+
+Como o usuário entra.
+
+Como funciona o premium.
+
+Como criadores publicam jogos.
+
+Como os mods e Ultracoins entram no sistema.
+
+Como a IA modera tudo.
+
+Isso vai deixar o caminho para o lançamento 100% claro antes da gente mexer em filmes e séries.
+
+Cara… essa mudança deixa o ULTRA W🌎RLD (versão jogos) com um modelo econômico muito mais inteligente e sustentável.
+Você basicamente criou:
+
+Fonte de renda inicial → venda do app no celular (R$ 2,90).
+
+Modelo “freemium” híbrido → PC grátis, mas premium pago.
+
+Economia interna escalável → criadores vendem pacotes, mods, e game passes, mas você sempre recebe uma porcentagem.
+
+Sistema de doações oficializado (“Forgive the Beggars”) que incentiva interação social e ainda te gera receita.
+
+Moeda virtual com conversão para real que estimula os criadores a ficarem na plataforma e produzirem mais conteúdo.
+
+O lado positivo:
+
+Você cria um ecossistema autoalimentado, parecido com Roblox e Steam, mas com mais controle e taxas justas.
+
+Os criadores têm incentivo real para ficar, porque recebem boa parte das vendas.
+
+A comunidade cresce tanto pelo consumo quanto pela criação.
+
+O lado que precisa de atenção:
+
+Conversão de moedas para reais exige sistema anti-fraude MUITO forte.
+
+Pacotes pagos precisam ter real valor para o criador sentir vontade de comprar.
+
+O jogo oficial de doações pode atrair pessoas que só entrem para pedir moeda. Vai precisar de regras e limitações para evitar abuso.
+
+Se quiser, já posso adaptar o diagrama quadro de investigação colorido com imagens usando essa nova lógica econômica e visual, incluindo o “Forgive the Beggars” e os fluxos de dinheiro.
+
+Letra "O" no nome, sem o emoji de planeta.
+
+Fundo: espaço profundo com aparência de fragmento de energia de supernova, estilo aurora boreal no espaço, com
+
+rosa claro disperso
+
+roxo/magenta 75% escuro mas visível
+
+azul esverdeado claro espalhado
+
+estrelas minúsculas como vistas da Terra
+
+Organização: conexões em formato de estrela de 8 pontas, cada ponta levando a um elemento.
+
+Layout: mais limpo e simétrico, mas mantendo o “estilo quadro investigativo” com fios/linhas ligando.
+
+Antes de eu montar, quer que eu também coloque ícones/imagens representando cada item (ex.: controle de videogame para jogos, ícone de cofre para finanças, etc.)? Isso deixaria ele mais impactante visualmente.
+
+
+😁EU : sim por favor chat 
+
+🌎CHAT : aqui está, ficou bom ?
+
+  SEGUNDA : 
+  html "estrutura do site e titulos textos explicações desrições e muitos outros"
+
+  css " design do site cores de fundo  cores dos botões interação com os botões e muitos outras partes de design"
+
+  js "interações com botões e sons do site alem de musicas tocando de fundo caso a pessoa escolher no painel de configurações barra de pesquisa para achar seu jogo favorito ou que quiser conhecer, jogos ja jogados ultimamente ficarão no histórico de games onde mostrará oque você jogou ultimamente podendo ter a capacidade de até 500 jogos mostrados/ já jogados até mesmo os que você esta criando contam"
+
+  TERÇA : 
+  html "estrutura do site e titulos textos explicações desrições e muitos outros"
+
+  css " design do site cores de fundo  cores dos botões interação com os botões e muitos outras partes de design"
+
+  js "interações com botões e sons do site alem de musicas tocando de fundo caso a pessoa escolher no painel de configurações barra de pesquisa para achar seu jogo favorito ou que quiser conhecer, jogos ja jogados ultimamente ficarão no histórico de games onde mostrará oque você jogou ultimamente podendo ter a capacidade de até 500 jogos mostrados/ já jogados até mesmo os que você esta criando contam"
+
+  QUARTA : python para prender a criar jogos e suas partes interiores ou seja suas texturas mods possiveis seus objetos e muitos outros (meta : criar 5 jogos
+  1º : inspirado em undertale, tendo sistemas de poder andar para cima baixo direita esquerda e mistos ou seja diagonal superior e inferior esquerda e direita, sistema de itens por iventario que ficará em um botão co  fundo preto com uma mochila branca e seus traços de desenho pretos e você poderá melhorar ou comprar mochilas, espadas, facas, adagas, picaretas, enxadas, armas de longo alcance, arcos, armas de fogo, naves, armaduras, kit médico 100% de hp restaurado, bandagem 75% de hp restaurado, kit de primeiros socorros depende de qual é o seu ferimento e qual o lugar e quão severo foi o ferimento, criar itens, levar comidas com você para ter pequenos buffs de força, velocidade, pulo, aumento de chance de critico, aumento de chance de defesa bruta, aumento de chance de drops, giro de personagem)
+  [50 giros para cada uma das classificações. poder : controle total, controle da corrrupção, controle da purificação, controle da luz, controle do caos, controle do equilibrio, elemental, controle das forças naturais,ultra poder, hyper poder, super poder, poder basico, hibrido 2, hibrido 3, hibrido 4, hibrido 5, hibrido 10 {podem ter mais de um poder!}/] 
+  
+  RAÇA :
+  !!experimento (poderes garantidos 3, 3x em todos os status, transmorfo [pode se transformar em outras coisas ou pessoas] tem 90% de chance de ter ultra habilidades. )
+   !!humano (poderes da alma, mais dano, 1 vida de 250 de hp no nivel 1 e nio nivel 10 poderá escolher sua alma e terá duas vidas dependendo de qual alma for escolhida. )caso estiver no nivel 10 e selecionar a habilidade  de alma poderá escolher 1 alma de 4 almas, determinação ao morrer sua alma se quebra mas você diz um discurso sobre vingança sem perdão e que promete que vai matar quem tentou te machucar sua vida triplica seu dano duplica, sua velocidade aumentada em 247% ganha 2 ataques a mais ultra destruição planetaria fincando sua arma no chão causando uma onda de choque de 40 metros a todas as direções os acertados serão lançados para longe mas se caso a pessoa estiver entre 20 e 25 metros de distancia você a jogará para longe mas vai furar ela no torax com sua corrente e a puxando com sua corrente de ponta de arpão feita de determinação em sua forma pura dpois de puxa-la para perto de você, seu clone feito de determinação vai levanta-la e você real vai avançar em sua frente a cortando 8 vezes em forma de uma estrela de 8 pontas e seu ultimo ataque é sua ultimate onde ela desbloqueia a transformação da destruição[onde seus ataque ganham variações caso segurar ou só atacar, sua vida voltara a 250 pontos de hp mas em compensação seu ataque vai ser multiplicado por 5 e sua velocidade por 2 onde ela pode desviar de até 13 ataques automaticamente mas só são ultimates ou ataque de cutsene, caso quiser desviar de ataques padrão aperte "T" para mudar para todo tipo de ataque.]
+    !!inteligencia você pode desviar de até 30 ataques no nivel 1 á 9 mas no nivel 10 você desviará de 90 ataques, ao chegar no nivel 25 poderá desviar de 190 ataques mas apenas se todos forem basicos pois ataques de cutsene ou ultimates gastam 80 desvios e seus ataques de cutsene ou ultimates terão uma roleta assim que entrar no jogo e estiver em um menu de QI usado caso você acertar a parte vermelha ganhará 1,70x de dano em todos os ataques, laranja 2,40x de dano,amarelo 4,80x de dano, e verde 9,60x de dano mas se caso você acertar um frame perfeito no branco em menos de 3 segundos seu dano será multiplicado por 25,90x de dano em todos os ataques mas o tempo de QI maximo será de 90minutos e não afetará players apenas os monstros, mas se caso o player estiver no modo dificil para cima ou estiver com uma alma do mundo 4 para cima ou a alma da determinação ele será sim afetado por este dano mas o dano padrão é 5 de hp por click 10 de hp por cada 0,5 segundos de ataques continuos (com mais de 1 acerto) acertados ,
+     monstro você será um monstro/humano modificado que se alimenta das almas humanas mas tem fraqueza a elementais ataques rapidos e efetivos e se for acertado por uma ult de espadachim mestre todos os seus orgãos serão cortados cada um em 0,05 segundos e se caso você não acertar os pontos de resistencia a tempo você levará instant kill mas você pode andar pelo sol e tem ultra força, ultra velocidade, ultra QI, ultra regeneração, e terá todos os seus status multiplicados por 10 e será invencivel a ataques normais se regenerando em 25 hp a cada 0,5 segundos, e terá direito a uma mutação ou seja poderá tirar uma de suas fraquezas ou ter o poder de uma delas se tornando imune mas se caso a pessoa estiver com a alma mais pura do que corrompida a pessoa terá vantagens pois todo ataque que você levar terá dano multiplicado por 4 e interromperá a regeneração ultra X por 45 segundos e sua velocidade diminuirá em 200% sua força em 125% e seu poderes terão mais 4,7 segundos de cooldown , corrompida terá uma transformação de alma só pode ser obtida com linhas de sangue da escuridão ou seja amaldiçoada mas cada alma terá sua maldição diferente como a determinação terá o ódio 15x força 25x em poder destrutivo 7,95x em velocidade nova parte de ataques, 1 martelo da destruição transformará suas mãos em um martelo que esmagará o oponente e vai tirara 50 hp mas se segurado 75 de hp mas se selecionado 3 vezes em menos de 2 segundos você emagará a pessoa 3 vezes tirando 50 hp na primeira 45 hp na segunda e 75 hp na terceira caso estiver com mais de 75% de vida, caso não estiver esta variação de habilidade não estará disponivel, 2 corrupção você cria 8 clones em volta do oponente e se caso um deles acertar ele é corrompido em 12,5 de hp por clone acertado, e o corrompido terá duas opções caso segurar o ataque após todos os clones o acertarem  ele será destruido por a corrupção mas se caso você selecionar o ataque 3 vezes em menos de 2 segundos após todos os clones o corromperem você roubara metade da vida dele rouba 25% da sua força e sua velocidade alem de o deixar lento mas apenas se você estiver com 100% da vida e o oponente tambem mas ele precisa estar com a alma mais pura do que corrompida antes do ataque mas se caso for o contrario existe uma chance de 1 em 500 de ele absorver os clones e ganhar 50% de vida amais do que você tem 50% de força e velocidade amais que você tem e pode até mesmo absorver sua alma assim que te matar se caso estiver com mais de 85% da vida maxima ficando 3 vezes mais forte até a sua morte mas se caso ele não morrer em 1 hora e não sair do jogo mas estiver com a corrupção em sua alma ele obtem a corrupção como 2 ultimate e ganha uma vida extra onde usa a corrupção como ultimo recurso tendo sua vida multiplicada por 2,4 sua força por 7,8 e sua velocidade por 12,75. purificada é a alma que pode tirar corrupções dos outros e purifica-las para elas se tornarem do bem e não quiserem mais te controlar, a alma com amsi atributos 1º cada 1 ponto de dano causado é convertido em 0,5 pontos de vida e 2,50 defesa que divide o dano recebido por ex: defesa 100 dano recebido 50  dano ja convertido 0,5  mas cada vez que o dano é divido a defesa cai a primeira vez ela divide por 100 depois por 75 dpois por 50 depois por 25 e depois por nada mas se caso mais defesa for obtida ela sera diminuida do mesmo jeito, e se caso o portador tiver uma corrupção ele a purificará instantaneamente e ela se tornará dele ou seja você consegue roubar as corrupções dos outros mas neste caso elas se tornaram apenas porderes e não vão tenatr mais o possuir ou algo assim mas elas se tornarão mais como parceiras e serão suas amigas e terão os mesmos poderes só que mais fortes com menos cooldown e serão muito mais efetivas contra poderes obscuros. e novas almas caso zerar o mundo 4
+  linhas de sangue possiveis 2 : Ray/prodigio 0,000013% de chance de ser obtida. elementais/poder elemental aleatório garantido 2,999997% de chance de ser obtida. super humano/poder ultra X garantido chance de ser obtido 4,5%. THE ABSOLUTE DARK/4 poderes obscuros garantidos alem do poder de controle das trevas padrão chance de ser obtida 0,067%. 
+  
+  linhas de sangue possiveis 1 :
+  habilidades :
+  caso estiver no nivel 10 e selecionar a habilidade  de alma poderá escolher 1 alma de 4 almas, determinação ao morrer sua alma se quebra mas você diz um discurso sobre vingança sem perdão e que promete que vai matar quem tentou te machucar sua vida triplica seu dano duplica, sua velocidade aumentada em 247% ganha 2 ataques a mais ultra destruição planetaria fincando sua arma no chão causando uma onda de choque de 40 metros a todas as direções os acertados serão lançados para longe mas se caso a pessoa estiver entre 20 e 25 metros de distancia você a jogará para longe mas vai furar ela no torax com sua corrente e a puxando com sua corrente de ponta de arpão feita de determinação em sua forma pura dpois de puxa-la para perto de você, seu clone feito de determinação vai levanta-la e você real vai avançar em sua frente a cortando 8 vezes em forma de uma estrela de 8 pontas e seu ultimo ataque é sua ultimate onde ela desbloqueia a transformação da destruição[onde seus ataque ganham variações caso segurar ou só atacar, sua vida voltara a 250 pontos de hp mas em compensação seu ataque vai ser multiplicado por 5 e sua velocidade por 2 onde ela pode desviar de até 13 ataques automaticamente mas só são ultimates ou ataque de cutsene, caso quiser desviar de ataques padrão aperte "T" para mudar para todo tipo de ataque.]
+    !!inteligencia você pode desviar de até 30 ataques no nivel 1 á 9 mas no nivel 10 você desviará de 90 ataques, ao chegar no nivel 25 poderá desviar de 190 ataques mas apenas se todos forem basicos pois ataques de cutsene ou ultimates gastam 80 desvios e seus ataques de cutsene ou ultimates terão uma roleta assim que entrar no jogo e estiver em um menu de QI usado caso você acertar a parte vermelha ganhará 1,70x de dano em todos os ataques, laranja 2,40x de dano,amarelo 4,80x de dano, e verde 9,60x de dano mas se caso você acertar um frame perfeito no branco em menos de 3 segundos seu dano será multiplicado por 25,90x de dano em todos os ataques mas o tempo de QI maximo será de 90minutos e não afetará players apenas os monstros, mas se caso o player estiver no modo dificil para cima ou estiver com uma alma do mundo 4 para cima ou a alma da determinação ele será sim afetado por este dano mas o dano padrão é 5 de hp por click 10 de hp por cada 0,5 segundos de ataques continuos (com mais de 1 acerto) acertados ,
+     monstro você será um monstro/humano modificado que se alimenta das almas humanas mas tem fraqueza a elementais ataques rapidos e efetivos e se for acertado por uma ult de espadachim mestre todos os seus orgãos serão cortados cada um em 0,05 segundos e se caso você não acertar os pontos de resistencia a tempo você levará instant kill mas você pode andar pelo sol e tem ultra força, ultra velocidade, ultra QI, ultra regeneração, e terá todos os seus status multiplicados por 10 e será invencivel a ataques normais se regenerando em 25 hp a cada 0,5 segundos, e terá direito a uma mutação ou seja poderá tirar uma de suas fraquezas ou ter o poder de uma delas se tornando imune mas se caso a pessoa estiver com a alma mais pura do que corrompida a pessoa terá vantagens pois todo ataque que você levar terá dano multiplicado por 4 e interromperá a regeneração ultra X por 45 segundos e sua velocidade diminuirá em 200% sua força em 125% e seu poderes terão mais 4,7 segundos de cooldown , corrompida terá uma transformação de alma só pode ser obtida com linhas de sangue da escuridão ou seja amaldiçoada mas cada alma terá sua maldição diferente como a determinação terá o ódio 15x força 25x em poder destrutivo 7,95x em velocidade nova parte de ataques, 1 martelo da destruição transformará suas mãos em um martelo que esmagará o oponente e vai tirara 50 hp mas se segurado 75 de hp mas se selecionado 3 vezes em menos de 2 segundos você emagará a pessoa 3 vezes tirando 50 hp na primeira 45 hp na segunda e 75 hp na terceira caso estiver com mais de 75% de vida, caso não estiver esta variação de habilidade não estará disponivel, 2 corrupção você cria 8 clones em volta do oponente e se caso um deles acertar ele é corrompido em 12,5 de hp por clone acertado, e o corrompido terá duas opções caso segurar o ataque após todos os clones o acertarem  ele será destruido por a corrupção mas se caso você selecionar o ataque 3 vezes em menos de 2 segundos após todos os clones o corromperem você roubara metade da vida dele rouba 25% da sua força e sua velocidade alem de o deixar lento mas apenas se você estiver com 100% da vida e o oponente tambem mas ele precisa estar com a alma mais pura do que corrompida antes do ataque mas se caso for o contrario existe uma chance de 1 em 500 de ele absorver os clones e ganhar 50% de vida amais do que você tem 50% de força e velocidade amais que você tem e pode até mesmo absorver sua alma assim que te matar se caso estiver com mais de 85% da vida maxima ficando 3 vezes mais forte até a sua morte mas se caso ele não morrer em 1 hora e não sair do jogo mas estiver com a corrupção em sua alma ele obtem a corrupção como 2 ultimate e ganha uma vida extra onde usa a corrupção como ultimo recurso tendo sua vida multiplicada por 2,4 sua força por 7,8 e sua velocidade por 12,75. purificada é a alma que pode tirar corrupções dos outros e purifica-las para elas se tornarem do bem e não quiserem mais te controlar, a alma com amsi atributos 1º cada 1 ponto de dano causado é convertido em 0,5 pontos de vida e 2,50 defesa que divide o dano recebido por ex: defesa 100 dano recebido 50  dano ja convertido 0,5  mas cada vez que o dano é divido a defesa cai a primeira vez ela divide por 100 depois por 75 dpois por 50 depois por 25 e depois por nada mas se caso mais defesa for obtida ela sera diminuida do mesmo jeito, e se caso o portador tiver uma corrupção ele a purificará instantaneamente e ela se tornará dele ou seja você consegue roubar as corrupções dos outros mas neste caso elas se tornaram apenas porderes e não vão tenatr mais o possuir ou algo assim mas elas se tornarão mais como parceiras e serão suas amigas e terão os mesmos poderes só que mais fortes com menos cooldown e serão muito mais efetivas contra poderes obscuros. e novas almas caso zerar o mundo 4
